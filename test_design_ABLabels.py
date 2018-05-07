@@ -11,3 +11,4 @@ import pytest
 def test_design_questionTabbing_textAB(request, create_survey):
     masterchange 1
     masterchange 2
+    masterchange 3
